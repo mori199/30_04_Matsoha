@@ -1,0 +1,20 @@
+body{
+	background-color:#6495ED ;
+	color: #483D8B;
+}
+h1{
+	text-align: center;
+}
+#r{
+	text-align: right;
+}
+#l{
+	text-align: left;
+}
+h4{
+	color: #8B4513;
+}
+#c{
+	text-align: center;
+		height: 400px;
+}
